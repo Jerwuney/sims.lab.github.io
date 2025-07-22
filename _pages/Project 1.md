@@ -1,6 +1,6 @@
 ---
-permalink: /Project 1:/
-title: "About"
+permalink: /project1/
+title: "Smart Assessment of Bridge Deck Efficiency and Safety in Hong Kong"
 ---
 
 # Smart Assessment of Bridge Deck Efficiency and Safety in Hong Kong 
@@ -9,7 +9,7 @@ title: "About"
 ## Principal Investigator: Prof. ZAYED Tarek 
 
 ## Introduction 
-Hong Kong has 1,340 bridges, with 7% over 50 years old, and 40% over 30 years old, many of which are showing signs of aging. High temperatures (37.8ºC) and humidity (84%) accelerate rebar corrosion and concrete degradation, leading to cracks, spalling, and structural weakening. These challenges are compounded by Hong Kong’s dense urban environment, where inspections and repairs are logistically complex.  The socio-economic consequences became evident after a barge collided with the Kap-Shui-Mun Bridge in October 2015, halting operations at Hong Kong Airport and raising concerns about the bridge's structural integrity and future safety. This scenario underscores the critical necessity of developing reliable models for the smart efficiency and safety evaluations of bridges superstructures. 
+Hong Kong has 1,340 bridges, with 7% over 50 years old, and 40% over 30 years old, many of which are showing signs of aging. High temperatures (37.8ºC) and humidity (84%) accelerate rebar corrosion and concrete degradation, leading to cracks, spalling, and structural weakening. These challenges are compounded by Hong Kong’s dense urban environment, where inspections and repairs are logistically complex.  The socio-economic consequences became evident after a barge collided with the Kap-Shui-Mun Bridge in October 2015, halting operations at Hong Kong Airport and raising concerns about the bridge's structural integrity and future safety. This scenario underscores the critical necessity of developing reliable models for the smart efficiency and safety evaluations of bridge superstructures. 
 
 ## Project Scope 
 In Hong Kong, like worldwide practice, visual inspection (VI) is the primary method to assess bridge condition. However, it often fails to detect subsurface defects, such as rebar corrosion. The Federal Highway Administration (FHWA) in the USA reported that 48% of bridge condition ratings using VI were incorrectly assessed. To overcome these limitations, this research integrated three advanced technologies: 
@@ -18,9 +18,9 @@ In Hong Kong, like worldwide practice, visual inspection (VI) is the primary met
 3. Infrared Thermography (IR) to detect delamination (internal concrete separation).
 
 Machine learning algorithms were utilized to analyse the combined data from these technologies, forming a comprehensive multi-tier inspection system designed to identify critical defects. The project aimed to: 
-1. Pinpoint key factors and defects’ type driving bridge deterioration in Hong Kong’s unique climate.
-2. Develop a multi-tier inspection system or detecting and locating surface and subsurface defects in concrete bridge decks.
-3. Design a Bridge Deck Efficiency Index (BDEI) to quantify structural health.
+1. Pinpoint key factors and defect types driving bridge deterioration in Hong Kong’s unique climate.
+2. Develop a multi-tier inspection system for detecting and locating surface and subsurface defects in concrete bridge decks.
+3. Design a Bridge Deck Efficiency Index (BDEI) to quantify structural health. 
 
 ## Key Findings 
 The project findings/deliverables can be summarized into the following points: 
