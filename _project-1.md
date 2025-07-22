@@ -1,5 +1,5 @@
 ---
-permalink: /Project-1/
+permalink: /project-1/
 title: "Smart Assessment of Bridge Deck Efficiency and Safety in Hong Kong"
 ---
 
