@@ -6,6 +6,8 @@ layout: single
 author_profile: true
 ---
 
-# About SIMS Lab
+# SIMS Lab
+
+## About
 **Smart Infrastructure Management Systems (SIMS)** is a research lab providing state-of-the-art solutions for sustainable management of infrastructure assets. **SIMS** lab is one of the leading research labs in Hong Kong, partnering with industry and academia to solve the world's most complex challenges in infrastructure management to help build a sustainable future. 
 
