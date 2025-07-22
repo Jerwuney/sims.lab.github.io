@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
+title: Smart Assessment of Bridge Deck Efficiency and Safety in Hong Kong
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -58,9 +58,13 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "SIMS Lab"
+  avatar : "/assets/images/SIMS_logo.png"
+  bio    : | 
+    Smart Infrastructure Management Systems (SIMS) is a research lab providing state-of-the-art
+    solutions for sustainable management of infrastructure assets. SIMS lab is one of the leading research
+    labs in Hong Kong, partnering with industry and academia to solve the world's most complex challenges in
+    infrastructure management to help build a sustainable future. 
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
