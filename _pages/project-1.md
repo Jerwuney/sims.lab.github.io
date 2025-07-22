@@ -33,4 +33,4 @@ The project findings/deliverables can be summarized into the following points:
 5. **Smart Bridge Deck Efficiency (SBDE) Tool**: A user-friendly software prototype automating data analysis.
 
 The multi-tier inspection system that integrates GPR and IRT was tested on 11 bridges, i.e., five were vehicle bridges and six were footbridges (Figure 2). The main focus was to detect three major defects: cracks, delamination, and corrosion, which are critical concerns for concrete structures. However, the system has the potential to extend its capabilities to detect other issues like spalling, scaling, and voids. 
-
+![Figure 1: Multi-tier inspection system](./assets/images/)
