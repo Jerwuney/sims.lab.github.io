@@ -1,9 +1,10 @@
-main:
-  - title: "Project-1"
-    url: /project-1/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+menu:
+  main:
+    - title: "Project 1"
+      url: /project-1/
+    - title: "Categories"
+      url: /categories/
+    - title: "Tags"
+      url: /tags/
+    - title: "About"
+      url: /about/
