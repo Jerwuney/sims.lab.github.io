@@ -3,10 +3,9 @@ permalink: /project-1/
 title: "Smart Assessment of Bridge Deck Efficiency and Safety in Hong Kong"
 ---
 
-# Smart Assessment of Bridge Deck Efficiency and Safety in Hong Kong 
-## Funding Scheme: Smart Traffic Fund 
-## Funding Amount: $8,099,567 
-## Principal Investigator: Prof. ZAYED Tarek 
+- **Funding Scheme: Smart Traffic Fund** 
+- **Funding Amount: $8,099,567** 
+- **Principal Investigator: Prof. ZAYED Tarek** 
 
 ## Introduction 
 Hong Kong has 1,340 bridges, with 7% over 50 years old, and 40% over 30 years old, many of which are showing signs of aging. High temperatures (37.8ºC) and humidity (84%) accelerate rebar corrosion and concrete degradation, leading to cracks, spalling, and structural weakening. These challenges are compounded by Hong Kong’s dense urban environment, where inspections and repairs are logistically complex.  The socio-economic consequences became evident after a barge collided with the Kap-Shui-Mun Bridge in October 2015, halting operations at Hong Kong Airport and raising concerns about the bridge's structural integrity and future safety. This scenario underscores the critical necessity of developing reliable models for the smart efficiency and safety evaluations of bridge superstructures. 
