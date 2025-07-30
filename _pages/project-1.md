@@ -38,3 +38,36 @@ The multi-tier inspection system that integrates GPR and IRT was tested on 11 br
   <img src="../assets/images/multiTierInsp.png" alt="Figure 1: Multi-tier inspection system">
   <figcaption>Figure 1: Multi-tier inspection system</figcaption>
 </figure>
+
+<figure>
+  <img src="../assets/images/DataCollection.png" alt="Figure 2: Data collection from 11 bridges">
+  <figcaption>Figure 2: Data collection from 11 bridges</figcaption>
+</figure>
+
+To facilitate the analysis of defects, a specialized algorithm for each defect type was developed, incorporating machine learning and statistical methods as the core of the analysis engine (Figures 3 and 4). 
+
+<figure>
+  <img src="../assets/images/GPR.png" alt="Figure 3: GPR data analysis for corrosion">
+  <figcaption>Figure 3: GPR data analysis for corrosion</figcaption>
+</figure>
+
+<figure>
+  <img src="../assets/images/IRT_data.png" alt="Figure 4: IRT data analysis for delamination">
+  <figcaption>Figure 4: IRT data analysis for delamination</figcaption>
+</figure>
+
+To summarize the inspection findings, i.e., located defects, condition indices for various defects were developed using fuzzy logic principles. This allowed us to create an integrated scale that accurately reflects the overall condition of a bridge (Figure 5). Such an integrated scale, along with individual defect condition indices, will significantly assist bridge authorities in understanding the current state of their structures. This understanding is vital for making informed decisions regarding maintenance and rehabilitation efforts. 
+
+
+<figure>
+  <img src="../assets/images/IntAss.png" alt="Figure 5: Integrated condition scale">
+  <figcaption>Figure 5: Integrated condition scale</figcaption>
+</figure>
+
+Furthermore, all the algorithms and tools developed during this project have been integrated into user-friendly software (Figure 6). This software aims to bridge the gap between research and practical application, making it easier for practitioners to implement the findings of this project. By providing a streamlined platform for data analysis and interpretation, we enhance the ability of engineers and maintenance teams to monitor bridge conditions effectively. This initiative not only contributes to improved safety and efficiency in bridge management but also lays the groundwork for future research and development in smart infrastructure assessment. 
+
+<figure>
+  <img src="../assets/images/multiTierInsp.png" alt="Figure 6: Automated tool for bridge inspection and data analysis">
+  <figcaption>Figure 6: Automated tool for bridge inspection and data analysis</figcaption>
+</figure>
+
